@@ -226,7 +226,7 @@ Point Power BI Desktop or Excel's Get Data connector at your database to build l
 **Sakthivel Srinivasan**
 Data Analyst | Berlin, Germany
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakthivelsrinivasan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakthivelurl/)
 [![Gmail](https://img.shields.io/badge/Gmail-sakthivellore17%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sakthivellore17@gmail.com)
 
 ---
